@@ -1,0 +1,8 @@
+body{
+    background-color: red;
+}
+
+#services{
+    display: flex;
+    flex-direction: column;
+}
